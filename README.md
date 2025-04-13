@@ -4,12 +4,12 @@
 
   ## 📘 Included Models
 
-  1. **Long Short-Term Memory (LSTM)**
-  2. **Gated Recurrent Unit (GRU)**
-  3. **Bi-directional Long Short-Term Memory (Bi-LSTM)**
-  4. **Bi-directional Gated Recurrent Unit (Bi-GRU)**
-  5. **Sequence-to-Sequence (Seq2Seq)**
-  6. **Transformer**
+  - **Long Short-Term Memory (LSTM)**
+  - **Gated Recurrent Unit (GRU)**
+  - **Bi-directional Long Short-Term Memory (Bi-LSTM)**
+  - **Bi-directional Gated Recurrent Unit (Bi-GRU)**
+  - **Sequence-to-Sequence (Seq2Seq)**
+  - **Transformer**
 
   Each model is implemented using Python and a popular deep learning framework (PyTorch), and is structured for ease of understanding, training, and testing.
 
